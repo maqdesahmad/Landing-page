@@ -46,3 +46,4 @@ Some of ECMAScript6 features that I'v used in my project:
 - Inspiration
 - Etc...
 "# Landing-page" 
+"# Landing-page" 
